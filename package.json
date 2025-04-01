@@ -28,23 +28,23 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@eslint/js": "^9.21.0",
-    "@tanstack/eslint-plugin-query": "^5.66.1",
-    "@tanstack/router-plugin": "^1.114.17",
-    "@types/node": "^22.13.9",
-    "@types/react": "^19.0.10",
+    "@eslint/js": "^9.23.0",
+    "@tanstack/eslint-plugin-query": "^5.68.0",
+    "@tanstack/router-plugin": "^1.114.32",
+    "@types/node": "^22.13.16",
+    "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^9.22.0",
-    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "husky": "^9.1.7",
-    "lint-staged": "^15.4.3",
+    "lint-staged": "^15.5.0",
     "prettier": "^3.5.3",
     "typescript": "~5.8.2",
-    "typescript-eslint": "^8.26.1",
-    "vite": "^6.2.0"
+    "typescript-eslint": "^8.29.0",
+    "vite": "^6.2.4"
   },
   "prettier": {
     "printWidth": 120,
